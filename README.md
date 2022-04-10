@@ -6,6 +6,7 @@ Check out the full guide this project at: https://browndoggadgets.dozuki.com/Gui
 
 
 > Open this page at [https://joha2738.github.io/gbsw-host/](https://joha2738.github.io/gbsw-host/)
+> Look at [https://www.instructables.com/Wireless-Game-Show-Buzzer-System/](https://www.instructables.com/Wireless-Game-Show-Buzzer-System/)
 
 ## Use as Extension
 
